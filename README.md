@@ -1,1 +1,1 @@
-# Phy-Sims
+# PhySims
